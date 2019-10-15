@@ -1,2 +1,0 @@
-# useScroll
-Created with CodeSandbox
